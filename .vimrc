@@ -52,3 +52,6 @@ set whichwrap+=<,>,h,l
 set mouse=a
 set laststatus=2
 set noshowmode
+set smartindent
+set wrap linebreak
+
